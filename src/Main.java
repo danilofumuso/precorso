@@ -13,7 +13,7 @@ public class Main {
         int y = scanner.nextInt();
         System.out.println("Inserisci il terzo numero");
         int z = scanner.nextInt();
-
+        int k= scanner.nextInt();
 
         if (x > y && x > z) {
             System.out.println(x + " è il numero più grande!");
